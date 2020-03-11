@@ -3,6 +3,12 @@
 	"EngineAssociation": "4.21",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
