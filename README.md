@@ -1,1 +1,3 @@
 # StrandedVR
+
+This is the respostiory storing the project files for Team 7's group VR Module at Teesside University. Specific contributions by Sam Dicken can be found by navigating to "Personal Contributions" branch. 
